@@ -1,0 +1,11 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "node work",
+  "main": "Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tilak",
+  "license": "ISC"
+}
